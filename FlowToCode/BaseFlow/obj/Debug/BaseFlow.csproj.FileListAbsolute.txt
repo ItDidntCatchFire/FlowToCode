@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\BaseFlow\bin\Debug\BaseFlow.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\BaseFlow\bin\Debug\BaseFlow.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\BaseFlow\obj\Debug\BaseFlow.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\BaseFlow\obj\Debug\BaseFlow.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\BaseFlow\obj\Debug\BaseFlow.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\BaseFlow\obj\Debug\BaseFlow.pdb

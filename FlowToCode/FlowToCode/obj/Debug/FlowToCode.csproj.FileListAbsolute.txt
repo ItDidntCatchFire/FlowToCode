@@ -1,0 +1,17 @@
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\bin\Debug\FlowToCode.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\bin\Debug\FlowToCode.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\bin\Debug\FlowToCode.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode.exe
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\obj\Debug\FlowToCode.pdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\bin\Debug\BaseFlow.dll
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\FlowToCode\FlowToCode\bin\Debug\BaseFlow.pdb
